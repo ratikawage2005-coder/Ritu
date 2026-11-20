@@ -1,0 +1,6 @@
+hello this is my first git project 
+in this i am creating my mini project for practice
+
+
+my project name traffic telligence
+
